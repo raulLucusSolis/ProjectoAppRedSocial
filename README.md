@@ -1,18 +1,18 @@
 # Asir Connect
 
-## Descripción del Proyecto
-Este es un proyecto para el módulo SAD. La aplicación es una red social llamada **Asir Connect**. Está diseñada para compartir información en un entorno educativo.
+## Project Description
+This is a project for the SAD module. The application is a social network called **Asir Connect**. It is designed to share information in an educational environment.
 
-## Requisitos de Desarrollo e Implementación
-Para desarrollar e implementar esta aplicación web necesitas los siguientes componentes:
+## Development and Deployment Requirements
+To develop and deploy this web application, you will need the following components:
 
-- **Servidor web:** Apache2
-- **Lenguaje de programación:** PHP
-- **Base de datos:** MariaDB
+- **Web Server:** Apache2
+- **Programming Language:** PHP
+- **Database:** MariaDB
 
 ---
 
-## Licencia
-Este contenido está licenciado bajo **Creative Commons Attribution-ShareAlike (CC BY-SA)**.
+## License
+This content is licensed under **Creative Commons Attribution-ShareAlike (CC BY-SA)**.
 
-[![Licencia CC BY-SA](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
