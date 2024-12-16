@@ -1,7 +1,7 @@
 # Asir Connect
 
 ## Project Description
-**Asir Connect** is a social network developed for the SAD module. Its purpose is to share information in an educational environment, facilitating collaboration and communication among students.
+**Asir Connect** is a social network developed for the IAW module. Its purpose is to share information in an educational environment, facilitating collaboration and communication among students.
 
 ---
 
